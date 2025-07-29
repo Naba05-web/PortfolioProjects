@@ -15,6 +15,8 @@
 Select *
 FROM pinterest_fashion_datasetx ;
 
+SELECT Location, User_name, click_rate
+FROM pinterest_fashion_datasetx ;
 
 Select *
 FROM pinterest_fashion_datasetx ;
@@ -224,70 +226,4 @@ WHERE image_description = '';
   ROUND(AVG(click_rate), 2) AS avg_click_rate,
   ROUND(AVG(ratings), 2) AS avg_rating
 FROM pinterest_fashion_datasetx;
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
