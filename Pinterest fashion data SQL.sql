@@ -11,7 +11,7 @@
 -- WHY see people's click or rate certain brands or type of shoes
 -- 5. track users flow see click & ratings 
 -- WHY see how many people are intrested in the pin and whether if it has fallen of or not 
-
+-- added location on where users use Pinterest the most 
 Select *
 FROM pinterest_fashion_datasetx ;
 
